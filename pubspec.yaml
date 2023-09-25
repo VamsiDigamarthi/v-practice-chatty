@@ -9,6 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.0.5
+  flutter_screenutil: ^5.8.4
+  http: ^0.13.5
+  shared_preferences: ^2.0.18
+  cupertino_icons: ^1.0.5
+  
 
 dev_dependencies:
   flutter_test:
